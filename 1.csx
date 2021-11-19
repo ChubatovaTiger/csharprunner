@@ -1,2 +1,2 @@
-WriteLine(Props["version"])
+WriteLine(Props["version"]);
 Error("error text")
