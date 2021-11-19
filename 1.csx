@@ -1,2 +1,3 @@
 WriteLine(Props["version"]);
-Error("error text LKSJ=_)+_)('sdlkl?><!@$%^~")
+
+Error("Error info", "Error identifier")
