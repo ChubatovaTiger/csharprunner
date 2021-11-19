@@ -1,3 +1,7 @@
 WriteLine(Props["version"]);
 
-Error("Error info", "Error identifier")
+Trace.Indent();
+       Trace("Entering Main");
+      WriteLine("Hello World.");
+       Trace("Exiting Main");
+       Trace.Unindent();
