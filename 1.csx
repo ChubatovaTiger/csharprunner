@@ -1,4 +1,6 @@
+#l diagnostic
 WriteLine(Props["version"]);
+
 
 
        Trace("Entering Main");
