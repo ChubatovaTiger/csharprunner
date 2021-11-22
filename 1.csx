@@ -1,4 +1,4 @@
-#l diagnostic
+
 WriteLine(Props["version"]);
 
 
